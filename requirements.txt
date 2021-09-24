@@ -2,7 +2,7 @@ pyrogram==1.2.9
 tgcrypto
 py-tgcalls==0.5.5
 python-dotenv
-youtube_dl==2.6
+youtube_dl==2021.6.6
 youtube_search_python
 requests
 aiohttp
